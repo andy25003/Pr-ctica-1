@@ -7,6 +7,8 @@ public class github {
 	        {
 	            System.out.print("12 * "+ i + " = " + 12 * i + "\n");
 				System.out.print("Merge into main");
-	        }
+
+			}
+			System.out.print("Haciendo commits a la rama Andy")
 	    }
 	}
